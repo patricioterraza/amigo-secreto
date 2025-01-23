@@ -1,4 +1,4 @@
-<h1 align="center">Challenge Amigo Secreto ONE Education</h1>
+<h1 align="center">Challenge Amigo Secreto Oracle Next Education</h1>
 
 ![AmigoSecretoImagen que describe el juego](https://github.com/user-attachments/assets/3b7326ff-b2f4-4422-8d38-fb9975476e26)
 
